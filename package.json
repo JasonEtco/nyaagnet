@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "xo",
-    "release": "webstore upload --source=extension --extension-id=##################### --auto-publish"
+    "release": "webstore upload --source=extension --extension-id=anaccjminbfaipgpcmepjlfgnaliogma --auto-publish"
   },
   "devDependencies": {
     "chrome-webstore-upload-cli": "^1.0.0",
