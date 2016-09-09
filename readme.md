@@ -4,7 +4,7 @@
 
 NyaaTorrents has built-in support for magnet linking by appending `magnet=1` as a query parameter. This extension appends the magnet parameter to all NyaaTorrents download links you navigate to.
 
-![](naagnet-banner.png)
+![](nyaagnet-banner.png)
 
 
 ## Install
