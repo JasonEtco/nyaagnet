@@ -1,0 +1,22 @@
+{
+	"name": "Nyaagnet",
+	"version": "0.0.1",
+	"description": "Convert NyaaTorrents download links into magnet links",
+	"homepage_url": "https://github.com/matchai/nyaa-magnet-linker",
+	"manifest_version": 2,
+	"minimum_chrome_version": "36",
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"*://*.nyaa.se/*"
+	],
+	"icons": {
+		"128": "iconx128.png",
+		"48": "iconx48.png"
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	}
+}
