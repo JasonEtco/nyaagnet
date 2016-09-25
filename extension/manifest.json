@@ -1,6 +1,6 @@
 {
 	"name": "Nyaagnet",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Convert NyaaTorrents download links into magnet links",
 	"homepage_url": "https://github.com/matchai/nyaagnet",
 	"manifest_version": 2,
