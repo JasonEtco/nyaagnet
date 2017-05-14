@@ -8,7 +8,7 @@
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
-		"*://*.nyaa.se/*"
+		"*://*.nyaa.si/*"
 	],
 	"icons": {
 		"128": "iconx128.png",
